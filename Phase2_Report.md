@@ -297,7 +297,7 @@ City-wide Status:
 
 ### Visualization 4: Current Status - Open vs Closed Violations
 
-**![top10_heating_violations.png](attachment:1d9aec0d-da4a-4af7-b2fe-fbe70fcdf34c.png)
+**![top10_heating_violations.png](open_vs_closed_violations.png)
 
 
 

@@ -265,7 +265,7 @@ City-wide Status:
 
 *[Include: top10_heating_violations.png]*
 
-![top10_heating_Violations.png](Open_Data_Project/Outputs/top10_heating_violations.png)
+![top10_heating_Violations.png](top10_heating_violations.png)
 
 **Description:** Horizontal bar chart ranking neighborhoods by total heating violations (2017-2025).
 

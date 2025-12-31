@@ -250,7 +250,7 @@ City-wide Status:
 ### Visualization 1: Neighborhood Risk Quadrant Analysis
 
 
-![Risk_Quadrant.png](attachment:48adc1af-ad98-42ed-977b-19ecd5470a25.png)
+![Risk_Quadrant.png](Risk_Quadrant.png)
 
 **Description:** This scatter plot maps all 34 Syracuse neighborhoods by their historical heating burden (x-axis) and current unresolved violations (y-axis). Neighborhoods in the upper-right quadrant (red) face both persistent historical problems and high current risk.
 

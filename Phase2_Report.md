@@ -282,7 +282,7 @@ City-wide Status:
 
 *[Include: heating_types_breakdown.png]*
 
-![heatign_types_breakdwon.png](Open_Data_Project/Outputs/heating_types_breakdown.png)
+![heatign_types_breakdwon.png](heating_types_breakdown.png)
 
 **Description:** Stacked horizontal bar chart showing the composition of heating violations by type for the top 10 neighborhoods.
 
